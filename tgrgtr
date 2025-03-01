@@ -1,0 +1,9 @@
+{
+    "TGEnbFlag": false,
+    "TGLangs": ["Russian"],
+    "TGTimes": ["Yekaterinburg"],
+    "TGLinkinp": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
